@@ -17,7 +17,13 @@ This notebook:
 
 Then you can get hands-on tweaking the reward function and transition function.
 
-### Value Iteration and Policy Iteration
+### Exploration 2: Value Iteration
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intelligent-Reliable-Autonomous-Systems/HandsOnDecisionMaking/blob/main/Exploration2_ValueIteration.ipynb)
+
+### Exploration 3: Policy Evaluation and Improvement
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intelligent-Reliable-Autonomous-Systems/HandsOnDecisionMaking/blob/main/Exploration3_PolicyEvalIter.ipynb)
 
 ## Contributors
 
