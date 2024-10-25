@@ -21,9 +21,24 @@ Then you can get hands-on tweaking the reward function and transition function.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intelligent-Reliable-Autonomous-Systems/HandsOnDecisionMaking/blob/main/Exploration2_ValueIteration.ipynb)
 
+This notebook:
+- Uses Gymnasium wrapper around the maze MDP from **Exploration 1**.
+- Gives a visualization of the propogation of values through iterations of Bellman backups.
+- Allows visualiaztion of agent following optimal policy from value iteration to solve the maze and reach goal.
+- Offers variations and visualizations with larger grid world mazes.
+
+You can play around with the maze layouts and walls to visualizse value propogations through iterations and agent behaviour.
+
 ### Exploration 3: Policy Evaluation and Improvement
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intelligent-Reliable-Autonomous-Systems/HandsOnDecisionMaking/blob/main/Exploration3_PolicyEvalIter.ipynb)
+
+This notebook:
+- Provides a simplified implementation of value iteration on a grid maze and visualization of policy as a heatmap.
+- Offers implementation and comparison of policy iteration in both, iterative and matrix (single-shot) form.  
+- Visualizes comparison of polices from value iteration and policy iteration.
+
+You can play around with the size and layout of the maze visualizse difference in policies from both, value and policy iteration.
 
 ## Contributors
 
