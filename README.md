@@ -4,7 +4,18 @@ This repository of Colab notebooks was created for the Fall 2024 Hands-On Decisi
 
 ## Topics
 
-### Markov Decision Processes and Gymnasium Environments
+### Exploration 1: Markov Decision Processes and Gymnasium Environments
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intelligent-Reliable-Autonomous-Systems/HandsOnDecisionMaking/blob/main/Exploration1_MazeMDP.ipynb)
+
+This notebook:
+- Describes the structure of a Markov Decision Process.
+- Implements an MDP for a maze example.
+- Gives a playground to interact with the Gymnasium reinforcement learning interface and example environments.
+- Creates a Gymnasium wrapper around the maze MDP.
+- Visualizes the actions of a random agent and an optimal agent.
+
+Then you can get hands-on tweaking the reward function and transition function.
 
 ### Value Iteration and Policy Iteration
 
