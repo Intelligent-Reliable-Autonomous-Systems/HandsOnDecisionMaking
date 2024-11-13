@@ -35,10 +35,20 @@ You can play around with the maze layouts and walls to visualizse value propogat
 
 This notebook:
 - Provides a simplified implementation of value iteration on a grid maze and visualization of policy as a heatmap.
-- Offers implementation and comparison of policy iteration in both, iterative and matrix (single-shot) form.  
+- Offers implementation and comparison of policy iteration in both, iterative and matrix (single-shot) form.
 - Visualizes comparison of polices from value iteration and policy iteration.
 
 You can play around with the size and layout of the maze visualizse difference in policies from both, value and policy iteration.
+
+### Exploration 4: Deep Q Networks and Atari
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intelligent-Reliable-Autonomous-Systems/HandsOnDecisionMaking/blob/main/Exploration4_DQN_Atari.ipynb)
+
+This notebook:
+- Presents an overview of the DQN algorithm, linking each implementation step to the underlying algorithmic concepts.
+- Provides detailed instructions for running the CleanRL implementation of DQN on Atari games.
+
+You can explore various Atari games, adjust input parameters, and experiment with network structures to observe their impact on the agent’s policy. This notebook also introduces tools and open-source libraries like CleanRL, Weights and Biases, and Gitpod, serving as a practical introduction to these resources.
 
 ## Contributors
 
